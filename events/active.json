@@ -1,0 +1,49 @@
+{
+  "slug": "anoos-caters-and-events-chakkuvally",
+  "name": "Anoos Caters and Events",
+  "shortName": "Anoos",
+  "descriptor": "Catering & Events",
+  "address": "Chakkuvally, Poruvazhy, Keralam 690520",
+  "area": "Chakkuvally",
+  "city": "Chakkuvally",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "690520",
+  "geo": {
+    "lat": 9.092952,
+    "lng": 76.6482758
+  },
+  "mapsLink": "https://maps.google.com/?cid=15138197834442288225",
+  "phone": "+91 98465 20625",
+  "whatsapp": "919846520625",
+  "hours": "Open 7 am – 7 pm · all days",
+  "opens": "07:00",
+  "closes": "19:00",
+  "rating": 4.9,
+  "reviewCount": 18,
+  "reviews": [
+    {
+      "name": "Amal S",
+      "rating": 5,
+      "quote": "Nice catering team 💕💥 delicious food 🥺😍"
+    },
+    {
+      "name": "ABHISHEK R",
+      "rating": 5,
+      "quote": "Excellent Food and catering services"
+    },
+    {
+      "name": "Arun Mohanan",
+      "rating": 5,
+      "quote": "I am Satisfied with the Service"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://anoos-caters-and-events-chakkuvally.vercel.app"
+}
